@@ -17,3 +17,12 @@
 - 왜도, 첨도
 
 참고 https://github.com/corazzon/finance-data-analysis
+
+## 2021-05-03
+- 웹 스크래핑을 통해 naver증권 일별 데이터 수집
+- requests
+- beautifulsoup
+- pandas.read_html
+- 수집 데이터 통합 pd.concat
+- 중복 데이터 제거 pd.drop_duplicates()
+- 전체 과정 
