@@ -38,4 +38,14 @@
 - 브라우저 네트워크 탭을 통해 requests, pandas로 데이터수집
 - JSON 타입 데이터프레임화
 
+
+## 2021-05-05 ##
+### ETF 수집 데이터 전처리 ###
+- etfTabCode에 따른 etfTabName칼럼 생성
+- 컬럼 명 변경
+- 파생변수 생성
+
+## 2021-05-06 ##
+### ETF 전체 종목 분석 및 시각화 ###
+
 참고 https://github.com/corazzon/finance-data-analysis
