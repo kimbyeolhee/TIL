@@ -47,5 +47,13 @@
 
 ## 2021-05-06 ##
 ### ETF 전체 종목 분석 및 시각화 ###
+- 변수 두개의 빈도수와 비율 
+- barplot
+- groupby로 barplot그래프의 수치 계산
+- 수치형 / 범주형 변수의 서브플롯 (boxplot, volinplot, countplot, barplot)
+- enumerate 함수
+- 상관계수
+- 마스크
+
 
 참고 https://github.com/corazzon/finance-data-analysis
