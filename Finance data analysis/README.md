@@ -55,5 +55,12 @@
 - 상관계수
 - 마스크
 
+## 2021-05-07 ##
+### 특정 업종/테마의 모든 정보에 대한 상세정보 수집 ###
+- 종목/테마 정보 하나 선택하여 해당 종목/테마의 종목 목록을 수집 (read_html , dropna)
+- 개별 종목의 상세정보 수집 (read_html, concat, set_index, transpose)
+- 처음 수집한 모든 종목의 상세정보를 수집 (함수 만들어서 apply)
+- 수집한 목록에 상세 정보를 합침 (merge)
+
 
 참고 https://github.com/corazzon/finance-data-analysis
