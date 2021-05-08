@@ -62,5 +62,14 @@
 - 처음 수집한 모든 종목의 상세정보를 수집 (함수 만들어서 apply)
 - 수집한 목록에 상세 정보를 합침 (merge)
 
+## 2021-05-08 ##
+### 업종_테마 텍스트데이터 전처리 ###
+- dtype 데이터타입 변경
+- 정규표현식
+- split()
+- filter()
+- melt()로 tidy 데이터화
+- del 로 사용하지 않는 컬럼 제거
+
 
 참고 https://github.com/corazzon/finance-data-analysis
