@@ -71,5 +71,34 @@
 - melt()로 tidy 데이터화
 - del 로 사용하지 않는 컬럼 제거
 
+## 2021-05-09 ##
+### 업종테마 분석 ###
+- 천단위 숫자 구분 format()
+- 사용하지않는 칼럼 삭제 del()
+- 상하위 10개 종목 시각화
+  - sort_values()
+  - set_index()
+- 이상치 찾기
+- 최대 손실 낙폭
+- 전체 변수에 대한 상관계수 및 시각화
+- 종목 별 상관계수
+
+## 2021-05-10 ##
+### 기술적분석 ###
+- 일별 수익률
+  - shift()
+  - pct_change()
+- 누적 수익률
+  - cumprod()
+- 단순/누적/지수 이동평균
+  - rolling()
+  - expanding()
+  - ewm()
+- 주기별 데이터 추출 및 샘플링
+  - asfreq
+  - resample
+
+## 2021-05-11 ##
+
 
 참고 https://github.com/corazzon/finance-data-analysis
