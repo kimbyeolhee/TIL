@@ -99,6 +99,10 @@
   - resample
 
 ## 2021-05-11 ##
-
+### 볼린저밴드 ###
+- 분산, 표준편차
+- 볼린저밴드 시각화
+- %밴드
+- 밴드폭
 
 참고 https://github.com/corazzon/finance-data-analysis
