@@ -105,4 +105,23 @@
 - %밴드
 - 밴드폭
 
+## 2021-05-12 ##
+### 모멘텀지표 ###
+- RSI
+- plotly.express
+  - graph_objects
+  - subplots
+  
+### MACD ###
+- MACD
+- signal
+- MACD oscillator
+- MACD 시각화
+- plotly 시각화
+- graph_objects, subplots 시각화
+
+### cufflinks 이용해 pandas와 plotly 생산성 향상
+- cufflinks를 통한 OHLC 데이터 시각화
+- 
+
 참고 https://github.com/corazzon/finance-data-analysis
