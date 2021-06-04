@@ -1,4 +1,6 @@
-분류: 나이브 베이즈, 로지스틱 회귀, 결정트리, SVM, KNN, 신경망, 앙상블 알고리즘<br/>
+# **Classification**<br/> 
+나이브 베이즈, 로지스틱 회귀, 결정트리, SVM, KNN, 신경망, 앙상블 알고리즘<br/>
+<br/>
 <br/>
 # 결정 트리<br/>
 결정트리는 쉽고 직관적이지만 rule 규칙을 만들기 위해 쉽게 오버피팅 된다는 단점 존재<br/>
@@ -19,7 +21,7 @@ XGBoost, LightGBM: GBM에서 발전된 형태<br/>
 [4. LightGBM](https://github.com/kimbyeolhee/TIL/blob/main/Classification/LightGBM.ipynb)<br/>
 <br/>
 ## 스태킹<br/>
-각각의 개별 모델들이 학습하여 예측한 값을 기반으로 최종적인 메타 모델이 예측값을 스태킹한 데이터를 학습하고 예측 
+각각의 개별 모델들이 학습하여 예측한 값을 기반으로 최종적인 메타 모델이 예측값을 스태킹한 데이터를 학습하고 예측<br/>
 [5. 스태킹 앙상블](https://github.com/kimbyeolhee/TIL/blob/main/Classification/%EC%8A%A4%ED%83%9C%ED%82%B9%20%EC%95%99%EC%83%81%EB%B8%94.ipynb)<br/>
 
 
