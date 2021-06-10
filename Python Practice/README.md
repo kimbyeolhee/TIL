@@ -6,5 +6,6 @@ Python study for Deep Learning
 [3. Meta data of ndarrays](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Meta-data%20of%20ndarrays.ipynb)<br/>
 [4. Changing ndarrays](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Changing%20ndarrays.ipynb)<br/>
 [5. Element-wise Operation and Broadcasting](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Element-wise%20Operations%20and%20Broadcasting.ipynb)<br/>
-[6.Indexing and Slicing ndarrays](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Indexing%20and%20Slicing%20ndarrays.ipynb)<br/>
-[7.]()<br/>
+[6. Indexing and Slicing ndarrays](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Indexing%20and%20Slicing%20ndarrays.ipynb)<br/>
+[7. axis and keepdims Arguments](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/axis%20and%20keepdims%20Arguments.ipynb)<br/>
+[8. Sum, Prod, Diff and Statistics](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Sum%2C%20Prod%2C%20Diff%20and%20Statistics.ipynb)<br/>
