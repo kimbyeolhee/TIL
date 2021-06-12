@@ -10,3 +10,4 @@ Python study for Deep Learning
 [7. axis and keepdims Arguments](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/axis%20and%20keepdims%20Arguments.ipynb)<br/>
 [8. Sum, Prod, Diff and Statistics](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Sum%2C%20Prod%2C%20Diff%20and%20Statistics.ipynb)<br/>
 [9. Rounding and Sorting](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Rounding%20and%20Sorting.ipynb)<br/>
+[10. Mathematical Functions](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Mathematical%20Functions.ipynb)<br/>
