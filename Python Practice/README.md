@@ -12,4 +12,5 @@ Python study for Deep Learning
 [9. Rounding and Sorting](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Rounding%20and%20Sorting.ipynb)<br/>
 [10. Mathematical Functions](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Mathematical%20Functions.ipynb)<br/>
 [11. Matrix Operation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Matrix%20Operation.ipynb)<br/>
-[12. Dimension Manipulation]()<br/>
+[12. Dimension Manipulation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Dimensionality%20Manipulations.ipynb)<br/>
+[13. Merging ndarrays]()<br/>
