@@ -14,7 +14,7 @@ Python study for Deep Learning
 [11. Matrix Operation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Matrix%20Operation.ipynb)<br/>
 [12. Dimension Manipulation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Dimensionality%20Manipulations.ipynb)<br/>
 [13. Merging ndarrays](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Merging%20ndarrays.ipynb)<br/>
-[14.]()<br/>
+[14. Repeating ndarrays](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Repeating%20ndarrays.ipynb)<br/>
 [15.]()<br/>
 [16.]()<br/>
 [17.]()<br/>
