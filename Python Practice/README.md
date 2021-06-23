@@ -15,8 +15,8 @@ Python study for Deep Learning
 [12. Dimension Manipulation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Dimensionality%20Manipulations.ipynb)<br/>
 [13. Merging ndarrays](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Merging%20ndarrays.ipynb)<br/>
 [14. Repeating ndarrays](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Repeating%20ndarrays.ipynb)<br/>
-[15.Tricks for Fully-connected Operations](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Tricks%20for%20Fully-connected%20Operationsipynb)<br/>
-[16.]()<br/>
+[15. Tricks for Fully-connected Operations](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Tricks%20for%20Fully-connected%20Operationsipynb)<br/>
+[16. Exercise1_Score Calculation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Exercise%201_Score%20Calculation.ipynb)<br/>
 [17.]()<br/>
 [18.]()<br/>
 [19.]()<br/>
