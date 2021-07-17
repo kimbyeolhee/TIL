@@ -18,5 +18,8 @@ Python study for Deep Learning
 [15. Tricks for Fully-connected Operations](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Tricks%20for%20Fully-connected%20Operationsipynb)<br/>
 [16. Exercise1_Score Calculation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Exercise%201_Score%20Calculation.ipynb)<br/>
 [17. Exercise2_Calculation]()<br/>
-[18.]()<br/>
-[19.]()<br/>
+
+
+## Forward Propagation of Neural Networks
+[1.]()<br/>
+[2.]()<br/>
