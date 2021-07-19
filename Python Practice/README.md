@@ -21,5 +21,8 @@ Python study for Deep Learning
 [18. Exercise3_Random Shuffling](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Exercise%203_Random%20Shuffling.ipynb)<br/>
 
 ## Forward Propagation of Neural Networks
-[1.]()<br/>
-[2.]()<br/>
+[1. Affine Functions](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/1-1_Affine%20Functions.ipynb)<br/>
+[2. Artificial Neurons]()<br/>
+[3. Dense :ayers]
+[4. Cascaded Dense Layers]
+[5. Model Implement with Dense Layers]
