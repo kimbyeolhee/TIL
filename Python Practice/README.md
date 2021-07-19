@@ -17,7 +17,7 @@ Python study for Deep Learning
 [14. Repeating ndarrays](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Repeating%20ndarrays.ipynb)<br/>
 [15. Tricks for Fully-connected Operations](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Tricks%20for%20Fully-connected%20Operationsipynb)<br/>
 [16. Exercise1_Score Calculation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Exercise%201_Score%20Calculation.ipynb)<br/>
-[17. Exercise2_Calculation]()<br/>
+[17. Exercise2_Calculation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Exercise%202_Calculation%20of%20Vectors.ipynb)<br/>
 [18. Exercise3_Random Shuffling](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Numpy%20Study/Exercise%203_Random%20Shuffling.ipynb)<br/>
 
 ## Forward Propagation of Neural Networks
