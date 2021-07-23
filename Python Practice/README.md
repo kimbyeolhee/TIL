@@ -23,6 +23,9 @@ Python study for Deep Learning
 ## Forward Propagation of Neural Networks
 [1. Affine Functions](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/1-1_Affine%20Functions.ipynb)<br/>
 [2. Artificial Neurons](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/1-2_Artificial%20Neurons.ipynb)<br/>
-[3. Dense Layers]()<br/>
-[4. Cascaded Dense Layers]()<br/>
-[5. Model Implement with Dense Layers]()<br/>
+[3. Dense Layers](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/2-1_Dense%20Layers.ipynb)<br/>
+[4. Cascaded Dense Layers](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/2-2_Cascaded%20Dense%20Layer.ipynb)<br/>
+[5. Model Implement with Dense Layers](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/2-3_Model%20Implementation%20with%20Dense%20Layers.ipynb)<br/>
+[6. ]
+[7. ]
+[8. ]
