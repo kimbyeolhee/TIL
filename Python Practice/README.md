@@ -28,4 +28,7 @@ Python study for Deep Learning
 [5. Model Implement with Dense Layers](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/2-3_Model%20Implementation%20with%20Dense%20Layers.ipynb)<br/>
 [6. Binary Classifiers ](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/3-1_Binary%20Classifiers.ipynb)<br/>
 [7. Multi-class Classifiers](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/3-2_Multi-class%20Classifiers.ipynb)<br/>
-[8. ]
+[8. Toy Datasets for Regression and Binary Classification](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/4-1_Toy%20Datasets%20for%20Regression%20and%20Binary%20Classification.ipynb)<br/>
+[9. MSE and BCE](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/4-2_MSE%20and%20BCE.ipynb)<br/>
+[10. SCCE and CCE](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/4-3_SCCE%20and%20CCE.ipynb)<br/>
+[11. ]()<br/>
