@@ -36,3 +36,7 @@ Python study for Deep Learning
 [13. Model Implementation with Conv2D Layers](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/5-3_Model%20Implementation%20with%20Conv2D%20Layers.ipynb)<br/>
 [14. Max and Average Pooling Layers](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/6-1_Max%20and%20Average%20Pooling%20Layers.ipynb)<br/>
 [15. Padding and Strides](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/6-2_Padding%20and%20Strides.ipynb)<br/>
+[16. Shapes in CNNs](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/7-1_%20Shapes%20in%20CNN.ipynb)<br/>
+[17. CNN Implementation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/7-2_%20CNN%20Implementation.ipynb)<br/>
+[18. LeNet Implementation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/7-3_LeNet%20Implementation.ipynb)<br/>
+
