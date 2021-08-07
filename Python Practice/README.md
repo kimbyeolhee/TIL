@@ -40,3 +40,5 @@ Python study for Deep Learning
 [17. CNN Implementation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/7-2_%20CNN%20Implementation.ipynb)<br/>
 [18. LeNet Implementation](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Forward%20Propagation%20of%20Neural%20Networks/7-3_LeNet%20Implementation.ipynb)<br/>
 
+## Backpropagation and Jacobian Matrices
+[1. Gradient Based Learning Practice](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Backpropagation%20and%20Jacobian%20Matrices/1_Gradient%20Based%20Learning%20Practice.ipynb)<br/>
