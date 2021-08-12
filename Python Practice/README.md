@@ -42,3 +42,8 @@
 
 ## Backpropagation and Jacobian Matrices
 [1. Gradient Based Learning Practice](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Backpropagation%20and%20Jacobian%20Matrices/1_Gradient%20Based%20Learning%20Practice.ipynb)<br/>
+[2. Linear Regression 구현](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Backpropagation%20and%20Jacobian%20Matrices/2_Linear%20Regression%20%EA%B5%AC%ED%98%84.ipynb)<br/>
+[3. Sigmoid 함수의 변수](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Backpropagation%20and%20Jacobian%20Matrices/3_Sigmoid%20%ED%95%A8%EC%88%98%EC%9D%98%20%EB%B3%80%EC%88%98.ipynb)<br/>
+[4. Logistic Regression 구현](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Backpropagation%20and%20Jacobian%20Matrices/4_Logistic%20Regression%20%EA%B5%AC%ED%98%84.ipynb)<br/>
+[5. Linear Regression 구현 (Minibatch)](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Backpropagation%20and%20Jacobian%20Matrices/5_Linear%20Regression%20%EA%B5%AC%ED%98%84%20(Minibatch).ipynb)<br/>
+[6. Logistic Regression 구현 (Minibatch)](https://github.com/kimbyeolhee/TIL/blob/main/Python%20Practice/Backpropagation%20and%20Jacobian%20Matrices/6_Logistic%20Regression%20%EA%B5%AC%ED%98%84%20(Minibatch).ipynb)<br/>
